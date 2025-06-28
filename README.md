@@ -23,5 +23,4 @@ This Tableau dashboard visualizes Netflix's global content catalog across genres
 - CSV/Excel (data source)
 - DAX/Calculated Fields inside Tableau
 
----
-
+ Linkedin  www.linkedin.com/in/vishnu-prasad-l-159b17362
